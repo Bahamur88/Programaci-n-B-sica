@@ -1,2 +1,2 @@
-# Programaci-n-B-sica
+# Programacion Basica
 Prueba para laboratiorios del curso
